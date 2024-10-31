@@ -1,0 +1,11 @@
+/Calculator.Desginer/bin
+/Calculator.Desginer/obj
+/CalculatorEngine.Application/bin
+/CalculatorEngine.Application/obj
+/CalculatorEngine.Library/bin
+/CalculatorEngine.Library/obj
+/CalculatorEngine.Models/bin
+/CalculatorEngine.Models/obj
+/CalculatorEngine.UnitTests/bin
+/CalculatorEngine.UnitTests/obj
+/.vs

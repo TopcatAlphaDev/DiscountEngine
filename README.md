@@ -1,4 +1,4 @@
 # DiscountEngine
 Calculates prices for items according to the configured discounts.
-In progress. 
+Home/private project - In progress. 
 TODO : Editor, drag and drop.

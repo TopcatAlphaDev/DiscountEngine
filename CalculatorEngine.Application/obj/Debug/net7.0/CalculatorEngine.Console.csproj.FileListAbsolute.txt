@@ -1,0 +1,15 @@
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\obj\Debug\net7.0\CalculatorEngine.Console.csproj.AssemblyReference.cache
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\obj\Debug\net7.0\CalculatorEngine.Console.GeneratedMSBuildEditorConfig.editorconfig
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\obj\Debug\net7.0\CalculatorEngine.Console.AssemblyInfoInputs.cache
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\obj\Debug\net7.0\CalculatorEngine.Console.AssemblyInfo.cs
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\obj\Debug\net7.0\CalculatorEngine.Console.csproj.CoreCompileInputs.cache
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\bin\Debug\net7.0\CalculatorEngine.Console.exe
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\bin\Debug\net7.0\CalculatorEngine.Console.deps.json
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\bin\Debug\net7.0\CalculatorEngine.Console.runtimeconfig.json
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\bin\Debug\net7.0\CalculatorEngine.Console.dll
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\bin\Debug\net7.0\CalculatorEngine.Console.pdb
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\obj\Debug\net7.0\CalculatorEngine.Console.dll
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\obj\Debug\net7.0\refint\CalculatorEngine.Console.dll
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\obj\Debug\net7.0\CalculatorEngine.Console.pdb
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\obj\Debug\net7.0\CalculatorEngine.Console.genruntimeconfig.cache
+E:\Development\CalculatorEngine\CalculatorEngine.Console\CalculatorEngine.Console\obj\Debug\net7.0\ref\CalculatorEngine.Console.dll

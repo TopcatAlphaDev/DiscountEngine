@@ -1,0 +1,17 @@
+campagne aanmaken als project en mogelijkheid op te slaan of te openen.
+
+Links een treeview met objecten gegroepeerd per topic ; discounts, validators, correctors, conditions
+
+Aparte tab met properties aangemaakt door gebruiker bestaande uit een key en een value
+
+Midden is de treeview met de inhoude campagne sctructureel in de volhorde die opgegeven is eng ehanteerd wordt.
+
+Rechts een propertygrid met de properties die de gebruiker kan invullen per object dat geselecteerd is in de middelste treeview.
+
+Gebruiker kan objecten verslepen van links object repository naar de campagne treeview in het midden.
+
+
+REname correctors to  modifiers
+
+
+

@@ -1,4 +1,4 @@
-﻿namespace Calculator.Desginer
+﻿namespace Calculator.Designer
 {
     partial class CampaignDesignerForm
     {

@@ -1,4 +1,4 @@
-﻿namespace Calculator.Desginer.Controllers
+﻿namespace Calculator.Designer.Controllers
 {
     public class CampaignDetailsController
     {

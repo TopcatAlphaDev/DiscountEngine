@@ -1,10 +1,10 @@
-﻿using Calculator.Desginer.Extensions;
+﻿using Calculator.Designer.Extensions;
+using CalculatorEngine.Models.Conditions;
 using CalculatorEngine.Models.Correctors;
 using CalculatorEngine.Models.Discounts;
 using CalculatorEngine.Models.Validators;
-using CalculatorEngine.Models.Conditions;
 
-namespace Calculator.Desginer.Controllers
+namespace Calculator.Designer.Controllers
 {
     public class ObjectToolBoxController
     {

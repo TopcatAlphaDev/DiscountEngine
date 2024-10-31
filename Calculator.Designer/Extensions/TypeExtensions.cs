@@ -3,7 +3,7 @@ using CalculatorEngine.Models.Correctors;
 using CalculatorEngine.Models.Discounts;
 using CalculatorEngine.Models.Validators;
 
-namespace Calculator.Desginer.Extensions
+namespace Calculator.Designer.Extensions
 {
     public static class TypeExtensions
     {

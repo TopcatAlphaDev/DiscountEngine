@@ -1,3 +1,5 @@
+using Calculator.Designer;
+
 namespace Calculator.Desginer
 {
     internal static class Program

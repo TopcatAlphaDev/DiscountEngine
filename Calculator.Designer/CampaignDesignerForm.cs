@@ -1,6 +1,6 @@
-using Calculator.Desginer.Controllers;
+using Calculator.Designer.Controllers;
 
-namespace Calculator.Desginer
+namespace Calculator.Designer
 {
     public partial class CampaignDesignerForm : Form
     {

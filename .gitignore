@@ -9,3 +9,5 @@
 /CalculatorEngine.UnitTests/bin
 /CalculatorEngine.UnitTests/obj
 /.vs
+/Calculator.Designer/bin
+/Calculator.Designer/obj
